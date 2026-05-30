@@ -89,7 +89,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -34777,6 +34776,17 @@
 		(uuid "fe8c44b8-5364-437a-9681-157e4e7e6623")
 	)
 	(gr_arc
+		(start 195.76652 82.832393)
+		(mid 195.775235 82.820632)
+		(end 195.784132 82.809008)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "506c25a0-141f-48a6-a05b-63cb99f48d8a")
+	)
+	(gr_arc
 		(start 195.76834 81.134874)
 		(mid 195.767726 81.182012)
 		(end 195.750724 81.225992)
@@ -34873,17 +34883,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "2091af9a-2522-489b-b5cd-416383d9bd01")
-	)
-	(gr_arc
-		(start 195.784132 82.809008)
-		(mid 195.775254 82.820606)
-		(end 195.76652 82.832393)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "506c25a0-141f-48a6-a05b-63cb99f48d8a")
 	)
 	(gr_arc
 		(start 195.786867 81.074431)
@@ -38929,17 +38928,6 @@
 		(uuid "b60bc4d1-18e5-4bfe-8589-97230a6e6c9b")
 	)
 	(gr_arc
-		(start 197.092277 84.732195)
-		(mid 197.100229 84.726077)
-		(end 197.108073 84.719739)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "bd1a3dc9-1c08-4561-bee4-6a47abe2e165")
-	)
-	(gr_arc
 		(start 197.09653 80.13167)
 		(mid 197.059943 80.179607)
 		(end 197.021207 80.225823)
@@ -39035,6 +39023,17 @@
 		)
 		(layer "F.SilkS")
 		(uuid "016ed4e6-2af6-41f5-bd1f-69b50e02e155")
+	)
+	(gr_arc
+		(start 197.108073 84.719739)
+		(mid 197.100249 84.726061)
+		(end 197.092277 84.732195)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "bd1a3dc9-1c08-4561-bee4-6a47abe2e165")
 	)
 	(gr_line
 		(start 197.108073 84.719739)
