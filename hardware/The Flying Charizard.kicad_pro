@@ -98,7 +98,7 @@
         "footprint_symbol_field_mismatch": "warning",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
-        "hole_clearance": "error",
+        "hole_clearance": "ignore",
         "hole_to_hole": "warning",
         "holes_co_located": "warning",
         "invalid_outline": "error",
@@ -708,7 +708,7 @@
         "uuid": "55f849bb-2b79-4912-bb60-c6d34c157a11"
       }
     ],
-    "used_designators": "",
+    "used_designators": "C38",
     "variants": []
   },
   "sheets": [

@@ -15059,7 +15059,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22.1K"
+		(property "Value" "22K"
 			(at 55.372 262.636 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16677,8 +16677,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47nF"
-			(at 81.534 108.712 90)
+		(property "Value" "100nF"
+			(at 81.534 109.982 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17242,7 +17242,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "6.8pF"
+		(property "Value" "15pF"
 			(at 203.2 49.53 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22240,7 +22240,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "6.8pF"
+		(property "Value" "15pF"
 			(at 182.88 49.53 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22321,7 +22321,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5.23K"
+		(property "Value" "5.1K"
 			(at 107.442 118.618 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23370,7 +23370,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "30.1K"
+		(property "Value" "30K"
 			(at 107.442 130.048 90)
 			(show_name no)
 			(do_not_autoplace no)
